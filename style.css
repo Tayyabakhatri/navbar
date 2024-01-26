@@ -1,0 +1,59 @@
+.one{
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    box-shadow: 10px 10px 10px rgb(85, 84, 84);
+    height: 40px;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 100px;
+}
+.services{
+   word-spacing: 20px;
+   text-align: justify;
+   font-size: smaller ;
+   
+   
+}
+.contact{
+   
+    background-color: rgb(59, 132, 205);
+    border-radius: 50px;
+    text-align: center;
+    width: 100px;
+    font-size: medium;
+    
+    
+    
+}
+.logo{
+   text-align:  inherit;
+   font-weight: 900;
+}
+.two{
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    box-shadow: 10px 10px 10px rgb(85, 84, 84);
+    height: 40px;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 100px; 
+}
+.three{
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    box-shadow: 10px 10px 10px rgb(85, 84, 84);
+    height: 40px;
+   
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 100px;  
+}
+
+
+
+
